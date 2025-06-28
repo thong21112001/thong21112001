@@ -87,4 +87,7 @@ Tôi là một lập trình viên .Net và mong muốn của tôi là trở thà
   <a href="https://github.com/thong21112001/BDC25" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=bdc25&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/>
   </a>
+  <a href="https://github.com/thong21112001/Management-Shoes-Store" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=Management-Shoes-Store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/>
+  </a>
 </div>
