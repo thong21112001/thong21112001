@@ -4,7 +4,7 @@ Chào ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 SOFTWARE ENGINEERING
 ----------------------------
 
-Xin chào và chào mừng mọi người đã đến với github của tôi. Xin tự giới thiệu, tôi là Trần Quang Thông, một lập trình viên phần mềm tốt nghiệp tại Đại học Duy Tân khoá K25, hiện tại tôi đang tìm việc làm có liên quan đến .Net 🤔
+Xin chào và chào mừng mọi người đã đến với github của tôi. Xin tự giới thiệu, tôi là Trần Quang Thông, một lập trình viên phần mềm tốt nghiệp tại Đại học Duy Tân khoá K25, hiện tại tôi đang làm những dự án có liên quan đến .Net 🤔
 
 ### 💼 Thông tin cá nhân
 
@@ -12,12 +12,13 @@ Xin chào và chào mừng mọi người đã đến với github của tôi. X
 * Nơi ở: Đà Nẵng
 * Biệt danh: Pan
 * Học vấn: Cử nhân Công Nghệ Phần Mềm - Xuất Sắc ⚡
-* Tình trạng: Đang kiếm việc làm intern/fresher 😄
+* Tình trạng: Đang làm việc tại [Khang Thị Group](https://khangthi.com) 😄
 
 🚀 Code rất thú vị! 🚀
 
 * 🌍  Tôi ở Đà Nẵng (Việt Nam)
 * 🖥️  Xem github của tôi [Github of me](https://github.com/thong21112001)
+* 🖥️  Xem LinkedIn của tôi [LinkedIn of me](https://www.linkedin.com/in/quang-thong-tran-4885b3238/)
 * ✉️  Liên hệ tôi qua mail [quangthong211101@gmail.com](mailto:quangthong211101@gmail.com)
 
 <a href="https://github.com/thong21112001" target="_blank" rel="noreferrer"><img
