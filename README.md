@@ -1,94 +1,112 @@
-Chào ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Tôi là Trần Quang Thông
-=====================================================================================================================================
+<!-- PROFILE README – Trần Quang Thông -->
 
-SOFTWARE ENGINEERING
-----------------------------
+<h1 align="center">Xin chào, mình là Trần Quang Thông (Pan) <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" /></h1>
 
-Xin chào và chào mừng mọi người đã đến với github của tôi. Xin tự giới thiệu, tôi là Trần Quang Thông, một lập trình viên phần mềm tốt nghiệp tại Đại học Duy Tân khoá K25, hiện tại tôi đang làm những dự án có liên quan đến .Net 🤔
+<p align="center">
+  <b>Software Engineer (.NET)</b> • Yêu clean code, UX gọn gàng, sản phẩm chạy mượt và đo đếm được 📈
+  <br/>
+  <i>Niềm tin: phần mềm tốt = kỹ thuật vững + trải nghiệm tinh tế + đo lường liên tục.</i>
+</p>
 
-### 💼 Thông tin cá nhân
+<p align="center">
+  <a href="https://github.com/thong21112001">
+    <img src="https://img.shields.io/github/followers/thong21112001?logo=github&style=for-the-badge&color=0891b2&labelColor=0b1220" alt="Followers"/>
+  </a>
+  <a href="mailto:quangthong211101@gmail.com">
+    <img src="https://img.shields.io/badge/Email-quangthong211101%40gmail.com-0b1220?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220&color=0891b2" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/quang-thong-tran-4885b3238/">
+    <img src="https://img.shields.io/badge/LinkedIn-Quang%20Thong-0b1220?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220&color=0891b2" alt="LinkedIn"/>
+  </a>
+</p>
 
-* Ngày sinh: 21/11/2001
-* Nơi ở: Đà Nẵng
-* Biệt danh: Pan
-* Học vấn: Cử nhân Công Nghệ Phần Mềm - Xuất Sắc ⚡
-* Tình trạng: Đang làm việc tại [Khang Thị Group](https://khangthi.com) 😄
+---
 
-🚀 Code rất thú vị! 🚀
+## 🧭 Vài dòng về mình
 
-* 🌍  Tôi ở Đà Nẵng (Việt Nam)
-* 🖥️  Xem github của tôi [Github of me](https://github.com/thong21112001)
-* 🖥️  Xem LinkedIn của tôi [LinkedIn of me](https://www.linkedin.com/in/quang-thong-tran-4885b3238/)
-* ✉️  Liên hệ tôi qua mail [quangthong211101@gmail.com](mailto:quangthong211101@gmail.com)
+- 🎓 Cử nhân Công Nghệ Phần Mềm – ĐH Duy Tân (K25) – <b>Xuất sắc</b>  
+- 🏢 Hiện đang làm tại <a href="https://khangthi.com">Khang Thị Group</a>  
+- 📍 Đà Nẵng, Việt Nam  
+- 🧑‍💻 Tập trung: <b>.NET 8</b> / ASP.NET Core (Web API, Razor Pages), EF Core, SQL Server  
+- ✨ Đang khám phá thêm: kiến trúc sạch (Clean Architecture), CI/CD GitHub Actions, một chút Vue/Angular cho FE
 
-<a href="https://github.com/thong21112001" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/thong21112001?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+> Mục tiêu ngắn hạn: build các module có thể tái sử dụng, đo được hiệu năng và scale nhẹ nhàng.  
+> Tầm nhìn dài hạn: trở thành full-stack đủ “chắc tay” ở backend, “thẩm mỹ” ở frontend, và “tỉnh táo” ở dữ liệu.
 
-### 🌐 Full-stack Dev
+---
 
-Tôi là một lập trình viên .Net và mong muốn của tôi là trở thành một full-stack, dưới đây là các công nghệ tôi đang học tập và tìm hiểu, cũng như một số tôi đã có kinh nghiệm
-
-### Skills
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="36" title=".NET" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" title="C#" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" title="SQL Server" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" title="HTML5" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" title="CSS3" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" title="Bootstrap" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" title="JavaScript" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="36" title="jQuery" alt="jQuery"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" title="Java" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" title="C++" alt="C++"/>
 </p>
 
-### Mạng xã hội
+---
 
-<p>
- <a href="https://www.linkedin.com/in/quang-thong-tran-4885b3238/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://www.facebook.com/quangthong211101" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://github.com/thong21112001" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-  </a>
-</p>
+## 🔗 Liên hệ nhanh
 
-### Một số Repository của tôi
+- ✉️ Email: <a href="mailto:quangthong211101@gmail.com">quangthong211101@gmail.com</a>  
+- 🔗 GitHub: <a href="https://github.com/thong21112001">github.com/thong21112001</a>  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/quang-thong-tran-4885b3238/">/in/quang-thong-tran-4885b3238/</a>
 
-<div width="100%" align="center">
-  <a href="https://github.com/thong21112001/Shoes-Management-System" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=shoes-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/>
+---
+
+## ⭐ Dự án nổi bật
+
+<div align="center">
+  <a href="https://github.com/thong21112001/Shoes-Management-System">
+    <img width="45%" alt="Shoes-Management-System"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=shoes-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0b1220&hide_border=true&locale=vi" />
   </a>
-  <a href="https://github.com/thong21112001/BookSale-Management-With-Net8" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=BookSale-Management-With-Net8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/>
+  <a href="https://github.com/thong21112001/BookSale-Management-With-Net8">
+    <img width="45%" alt="BookSale-Management-With-Net8"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=BookSale-Management-With-Net8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0b1220&hide_border=true&locale=vi" />
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/>
 
-<div width="100%" align="center">
-  <a href="https://github.com/thong21112001/BDC25" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=bdc25&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/>
+<div align="center">
+  <a href="https://github.com/thong21112001/BDC25">
+    <img width="45%" alt="BDC25"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=BDC25&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0b1220&hide_border=true&locale=vi" />
   </a>
-  <a href="https://github.com/thong21112001/Management-Shoes-Store" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=Management-Shoes-Store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/>
+  <a href="https://github.com/thong21112001/Management-Shoes-Store">
+    <img width="45%" alt="Management-Shoes-Store"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=Management-Shoes-Store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0b1220&hide_border=true&locale=vi" />
   </a>
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" alt="stats"
+    src="https://github-readme-stats.vercel.app/api?username=thong21112001&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=0b1220&text_color=ffffff&icon_color=0891b2&hide_border=true&locale=vi" />
+  <img height="160" alt="top-langs"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thong21112001&layout=compact&langs_count=8&bg_color=0b1220&text_color=ffffff&icon_color=0891b2&hide_border=true" />
+</div>
+
+---
+
+## 📝 Một chút “ngoài lề” (nhưng quan trọng)
+
+- Mình tin vào <b>độ tin cậy</b> (reliability), <b>đo lường</b> (metrics/telemetry) và <b>đơn giản hoá</b> (KISS).  
+- Thói quen: viết test tối thiểu cho các luồng quan trọng, log đủ để debug trong 5 phút, tài liệu hoá ngay khi code còn “nóng”.
+
+---
+
+## 💬 Kết nối
+
+Nếu bạn muốn trao đổi về .NET, kiến trúc sạch, cơ sở dữ liệu hay tối ưu hiệu năng – cứ ping mình. Luôn sẵn sàng cho những dự án có ý nghĩa và thử thách thú vị. 🚀
