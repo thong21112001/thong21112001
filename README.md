@@ -25,7 +25,7 @@
 ## 🧭 Vài dòng về mình
 
 - 🎓 Cử nhân Công Nghệ Phần Mềm – ĐH Duy Tân (K25) – <b>Xuất sắc</b>  
-- 🏢 Hiện đang làm freelancer và tìm bến đỗ mới cho mình
+- 🏢 Hiện đang làm việc tại HIFIVEPLUS
 - 📍 Đà Nẵng, Việt Nam  
 - 🧑‍💻 Tập trung: <b>.NET 8</b> / ASP.NET Core (Web API, Razor Pages), EF Core, SQL Server  
 - ✨ Đang khám phá thêm: kiến trúc sạch (Clean Architecture), CI/CD GitHub Actions, một chút Vue/Angular cho FE
