@@ -1,5 +1,3 @@
-<!-- PROFILE README – Trần Quang Thông -->
-
 <h1 align="center">Xin chào, mình là Trần Quang Thông (Pan) <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" /></h1>
 
 <p align="center">
@@ -74,12 +72,11 @@
 
 <div align="center">
   <a href="https://github.com/thong21112001/Shoes-Management-System">
-    <img width="45%" alt="Shoes-Management-System"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=shoes-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0b1220&hide_border=true&locale=vi" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=Shoes-Management-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0b1220&hide_border=true&locale=vi" alt="Shoes-Management-System" />
   </a>
+  &nbsp;
   <a href="https://github.com/thong21112001/BookSale-Management-With-Net8">
-    <img width="45%" alt="BookSale-Management-With-Net8"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=BookSale-Management-With-Net8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0b1220&hide_border=true&locale=vi" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=BookSale-Management-With-Net8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0b1220&hide_border=true&locale=vi" alt="BookSale-Management-With-Net8" />
   </a>
 </div>
 
@@ -87,12 +84,11 @@
 
 <div align="center">
   <a href="https://github.com/thong21112001/BDC25">
-    <img width="45%" alt="BDC25"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=BDC25&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0b1220&hide_border=true&locale=vi" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=BDC25&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0b1220&hide_border=true&locale=vi" alt="BDC25" />
   </a>
+  &nbsp;
   <a href="https://github.com/thong21112001/Management-Shoes-Store">
-    <img width="45%" alt="Management-Shoes-Store"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=Management-Shoes-Store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0b1220&hide_border=true&locale=vi" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=Management-Shoes-Store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0b1220&hide_border=true&locale=vi" alt="Management-Shoes-Store" />
   </a>
 </div>
 
@@ -101,10 +97,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" alt="stats"
-    src="https://github-readme-stats.vercel.app/api?username=thong21112001&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=0b1220&text_color=ffffff&icon_color=0891b2&hide_border=true&locale=vi" />
-  <img height="160" alt="top-langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thong21112001&layout=compact&langs_count=8&bg_color=0b1220&text_color=ffffff&icon_color=0891b2&hide_border=true" />
+  <img height="180" alt="stats" src="https://github-readme-stats.vercel.app/api?username=thong21112001&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=0b1220&text_color=ffffff&icon_color=0891b2&hide_border=true&locale=vi" />
+  &nbsp;
+  <img height="180" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thong21112001&layout=compact&langs_count=8&bg_color=0b1220&text_color=ffffff&icon_color=0891b2&hide_border=true&locale=vi" />
 </div>
 
 ---
@@ -115,7 +110,6 @@
 - Thói quen: viết test tối thiểu cho các luồng quan trọng, log đủ để debug trong 5 phút, tài liệu hoá ngay khi code còn “nóng”.
 
 ---
-
 ## 💬 Kết nối
 
 Nếu bạn muốn trao đổi về .NET, kiến trúc sạch, cơ sở dữ liệu hay tối ưu hiệu năng – cứ ping mình. Luôn sẵn sàng cho những dự án có ý nghĩa và thử thách thú vị. 🚀
