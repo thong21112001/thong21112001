@@ -1,4 +1,4 @@
-<h1 align="center">Xin chào, mình là Trần Quang Thông (Pan) <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" /></h1>
+<h1 align="center">Xin chào, mình là Trần Quang Thông (Pan) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
   <b>Software Engineer (.NET)</b> • Yêu clean code, UX gọn gàng, sản phẩm chạy mượt và đo đếm được 📈
@@ -26,88 +26,54 @@
 - 🏢 Hiện đang làm việc tại HIFIVEPLUS
 - 📍 Đà Nẵng, Việt Nam  
 - 🧑‍💻 Tập trung: <b>.NET 8</b> / ASP.NET Core (Web API, Razor Pages), EF Core, SQL Server  
-- ✨ Đang khám phá thêm: kiến trúc sạch (Clean Architecture), CI/CD GitHub Actions, một chút Vue/Angular cho FE
-- ✨ Bổ sung thêm là mình đang làm về: NestJs, MongoDB và một ít về Docker
+- ✨ Frontend hiện đại: <b>React, Next.js</b> kết hợp Tailwind CSS.
+- ✨ Đang mở rộng: Clean Architecture, NestJs, MongoDB & Docker.
 
-> Mục tiêu ngắn hạn: build các module có thể tái sử dụng, đo được hiệu năng và scale nhẹ nhàng.  
-> Tầm nhìn dài hạn: trở thành full-stack đủ “chắc tay” ở backend, “thẩm mỹ” ở frontend, và “tỉnh táo” ở dữ liệu.
+> Mục tiêu ngắn hạn: build các module tái sử dụng, hiệu năng cao.  
+> Tầm nhìn dài hạn: trở thành Full-stack Engineer "chắc tay".
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="36" title=".NET" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" title="C#" alt="C#"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" title="SQL Server" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB" alt="MongoDB"/>
+### Backend & Database
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="36" title="NestJS" alt="NestJS"/>
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" title="HTML5" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" title="CSS3" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" title="Bootstrap" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" title="JavaScript" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="36" title="jQuery" alt="jQuery"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" title="Java" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" title="C++" alt="C++"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="36" title="GitLab" alt="GitLab"/>
-</p>
-
----
-
-## 🔗 Liên hệ nhanh
-
-- ✉️ Email: <a href="mailto:quangthong211101@gmail.com">quangthong211101@gmail.com</a>  
-- 🔗 GitHub: <a href="https://github.com/thong21112001">github.com/thong21112001</a>  
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/quang-thong-tran-4885b3238/">/in/quang-thong-tran-4885b3238/</a>
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)
 
 ---
 
 ## ⭐ Dự án nổi bật
 
-<div align="center">
-  <a href="https://github.com/thong21112001/Shoes-Management-System">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=Shoes-Management-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0b1220&hide_border=true&locale=vi" alt="Shoes-Management-System" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/thong21112001/BookSale-Management-With-Net8">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=BookSale-Management-With-Net8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0b1220&hide_border=true&locale=vi" alt="BookSale-Management-With-Net8" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/thong21112001/BDC25">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=BDC25&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0b1220&hide_border=true&locale=vi" alt="BDC25" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/thong21112001/Management-Shoes-Store">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thong21112001&repo=Management-Shoes-Store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0b1220&hide_border=true&locale=vi" alt="Management-Shoes-Store" />
-  </a>
-</div>
+| Tên Dự Án | Tech Stack | Mô tả ngắn |
+| :--- | :--- | :--- |
+| 👟 **[Shoes Management System](https://github.com/thong21112001/Shoes-Management-System)** | .NET, SQL Server | Hệ thống quản lý cửa hàng giày. |
+| 📚 **[BookSale Management](https://github.com/thong21112001/BookSale-Management-With-Net8)** | .NET 8, EF Core | Quản lý bán sách với công nghệ mới nhất. |
+| 🏢 **[BDC25](https://github.com/thong21112001/BDC25)** | ASP.NET Core | Dự án quản lý BDC. |
+| 🏪 **[Management Shoes Store](https://github.com/thong21112001/Management-Shoes-Store)** | C#, WinForm/WPF | Phần mềm quản lý kho và bán hàng. |
 
 ---
 
-## 📊 GitHub Stats
+## 📝 Một chút “ngoài lề”
 
-<div align="center">
-  <img height="180" alt="stats" src="https://github-readme-stats.vercel.app/api?username=thong21112001&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=0b1220&text_color=ffffff&icon_color=0891b2&hide_border=true&locale=vi" />
-  &nbsp;
-  <img height="180" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thong21112001&layout=compact&langs_count=8&bg_color=0b1220&text_color=ffffff&icon_color=0891b2&hide_border=true&locale=vi" />
-</div>
-
----
-
-## 📝 Một chút “ngoài lề” (nhưng quan trọng)
-
-- Mình tin vào <b>độ tin cậy</b> (reliability), <b>đo lường</b> (metrics/telemetry) và <b>đơn giản hoá</b> (KISS).  
-- Thói quen: viết test tối thiểu cho các luồng quan trọng, log đủ để debug trong 5 phút, tài liệu hoá ngay khi code còn “nóng”.
+- Mình tin vào <b>độ tin cậy</b> (reliability), <b>đo lường</b> (metrics) và <b>đơn giản hoá</b> (KISS).  
+- Thói quen: viết test tối thiểu cho các luồng quan trọng, log đủ để debug trong 5 phút.
 
 ---
 ## 💬 Kết nối
