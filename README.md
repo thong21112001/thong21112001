@@ -25,9 +25,9 @@
 - 🎓 Cử nhân Công Nghệ Phần Mềm – ĐH Duy Tân (K25) – <b>Xuất sắc</b>  
 - 🏢 Hiện đang làm việc tại HIFIVEPLUS
 - 📍 Đà Nẵng, Việt Nam  
-- 🧑‍💻 Tập trung: <b>.NET 8</b> / ASP.NET Core (Web API, Razor Pages), EF Core, SQL Server  
+- 🧑‍💻 Tập trung: <b>.NET 8</b> / ASP.NET Core (Web API, Razor Pages), EF Core, SQL Server, MongoDB, NestJs.
 - ✨ Frontend hiện đại: <b>React, Next.js</b> kết hợp Tailwind CSS.
-- ✨ Đang mở rộng: Clean Architecture, NestJs, MongoDB & Docker.
+- 🗺️ Đang mở rộng: Clean Architecture, NestJs, MongoDB & Docker.
 
 > Mục tiêu ngắn hạn: build các module tái sử dụng, hiệu năng cao.  
 > Tầm nhìn dài hạn: trở thành Full-stack Engineer "chắc tay".
@@ -63,6 +63,7 @@
 
 | Tên Dự Án | Tech Stack | Mô tả ngắn |
 | :--- | :--- | :--- |
+| ♥️ **[Nest Master](https://github.com/thong21112001/nest-master-project)** | NestJs, MongoDB, API | Dự án pro. |
 | 👟 **[Shoes Management System](https://github.com/thong21112001/Shoes-Management-System)** | .NET, SQL Server | Hệ thống quản lý cửa hàng giày. |
 | 📚 **[BookSale Management](https://github.com/thong21112001/BookSale-Management-With-Net8)** | .NET 8, EF Core | Quản lý bán sách với công nghệ mới nhất. |
 | 🏢 **[BDC25](https://github.com/thong21112001/BDC25)** | ASP.NET Core | Dự án quản lý BDC. |
