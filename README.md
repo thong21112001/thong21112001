@@ -1,7 +1,7 @@
 <h1 align="center">Xin chào, mình là Trần Quang Thông (Pan) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
-  <b>Software Engineer (.NET)</b> • Yêu clean code, UX gọn gàng, sản phẩm chạy mượt và đo đếm được 📈
+  <b>Software Engineer (.NET & NestJS)</b> • Yêu clean code, UX gọn gàng, sản phẩm chạy mượt và đo đếm được 📈
   <br/>
   <i>Niềm tin: phần mềm tốt = kỹ thuật vững + trải nghiệm tinh tế + đo lường liên tục.</i>
 </p>
@@ -16,6 +16,9 @@
   <a href="https://www.linkedin.com/in/quang-thong-tran-4885b3238/">
     <img src="https://img.shields.io/badge/LinkedIn-Quang%20Thong-0b1220?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220&color=0891b2" alt="LinkedIn"/>
   </a>
+  <a href="https://drive.google.com/file/d/14htdOLy-V39kebvPPGNLKuPdDpA47IeN/view?usp=sharing">
+    <img src="https://img.shields.io/badge/CV-Xem%20Hồ%20Sơ-0b1220?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=0b1220&color=0891b2" alt="CV"/>
+  </a>
 </p>
 
 ---
@@ -25,7 +28,7 @@
 - 🎓 Cử nhân Công Nghệ Phần Mềm – ĐH Duy Tân (K25) – <b>Xuất sắc</b>  
 - 🏢 Hiện đang làm việc tại HIFIVEPLUS
 - 📍 Đà Nẵng, Việt Nam  
-- 🧑‍💻 Tập trung: <b>.NET 8</b> / ASP.NET Core (Web API, Razor Pages), EF Core, SQL Server, MongoDB, NestJs.
+- 🧑‍💻 Tập trung: <b>.NET 8</b> / ASP.NET Core (Web API, Razor Pages), EF Core, SQL Server.
 - ✨ Frontend hiện đại: <b>React, Next.js</b> kết hợp Tailwind CSS.
 - 🗺️ Đang mở rộng: Clean Architecture, NestJs, MongoDB & Docker.
 
@@ -79,4 +82,4 @@
 ---
 ## 💬 Kết nối
 
-Nếu bạn muốn trao đổi về .NET, kiến trúc sạch, cơ sở dữ liệu hay tối ưu hiệu năng – cứ ping mình. Luôn sẵn sàng cho những dự án có ý nghĩa và thử thách thú vị. 🚀
+Nếu bạn muốn trao đổi về (.NET & NestJS), kiến trúc sạch, cơ sở dữ liệu hay tối ưu hiệu năng – cứ ping mình. Luôn sẵn sàng cho những dự án có ý nghĩa và thử thách thú vị. 🚀
