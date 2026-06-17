@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://portfolio-beige-psi-27.vercel.app/">
+    Portfolio
   </a>
 </p>
 
