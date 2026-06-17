@@ -7,17 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/thong21112001">
-    <img src="https://img.shields.io/github/followers/thong21112001?logo=github&style=for-the-badge&color=0891b2&labelColor=0b1220" alt="Followers"/>
-  </a>
-  <a href="mailto:quangthong211101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-quangthong211101%40gmail.com-0b1220?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220&color=0891b2" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/quang-thong-tran-4885b3238/">
-    <img src="https://img.shields.io/badge/LinkedIn-Quang%20Thong-0b1220?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220&color=0891b2" alt="LinkedIn"/>
-  </a>
-  <a href="https://drive.google.com/file/d/14htdOLy-V39kebvPPGNLKuPdDpA47IeN/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV-Xem%20Hồ%20Sơ-0b1220?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=0b1220&color=0891b2" alt="CV"/>
+  <a href="https://portfolio-beige-psi-27.vercel.app/">
   </a>
 </p>
 
